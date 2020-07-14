@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Va:le:rii or just call me Val
 - ⚡ Fun fact: yet to be discovered
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dwite.dwite-visitor-badge)
 <!--
 **Dwite/Dwite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
