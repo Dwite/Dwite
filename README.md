@@ -10,7 +10,7 @@ I'm Val, a mobile developer who's passionate about creating impactful solutions 
 - 😄  Pronouns: Va:le:rii or just call me **Val**
 - ⚡ Fun fact: I have a penchant for court games and have ventured into trying every tennis or court-related game out there! From the traditional tennis court to the thrilling squash rallies and the elegance of badminton, I've explored them all. Yet, amidst the variety, table tennis holds a special place in my heart. The rapid volleys across the tiny net encapsulate a blend of strategy, agility, and camaraderie that's hard to beat. It's the miniature battlefield where I find both challenge and joy!
 
-🔗 [Portfolio]([https://your-website.com](https://play.google.com/store/apps/developer?id=SmartFox+Labs&hl=en&gl=US))
+🔗 [Google Play](https://play.google.com/store/apps/developer?id=SmartFox+Labs&hl=en&gl=US)
 
 #### Technologies:
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
