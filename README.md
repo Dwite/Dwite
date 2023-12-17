@@ -16,9 +16,3 @@ I'm Val, a mobile developer who's passionate about creating impactful solutions 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/kotlin.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
-
-#### Some of my notable projects:
-- **Project Name**: Description with [Repo link](https://github.com/your-username/project-name) and [Live Demo](https://live-demo.com)
-... add more projects
-
-![Val's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwite&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard)
